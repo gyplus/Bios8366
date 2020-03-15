@@ -1,4 +1,5 @@
-# Bios8366
+# Advanced Statistical Computing
+##高等统计计算
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fonnesbeck/bios8366/master)
 
